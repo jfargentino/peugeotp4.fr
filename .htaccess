@@ -1,1 +1,5 @@
-ErrorDocument 404 /images/404-3.jpg
+ErrorDocument 403 /images/403.jpg
+ErrorDocument 404 /images/404.jpg
+ErrorDocument 405 /images/405.jpg
+ErrorDocument 504 /images/504.jpg
+ErrorDocument 505 /images/505.jpg
